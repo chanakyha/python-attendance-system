@@ -1,0 +1,8 @@
+autopep8==1.6.0
+mysql-connector-python==8.0.28
+prettytable==3.0.0
+protobuf==3.19.4
+pycodestyle==2.8.0
+termcolor==1.1.0
+toml==0.10.2
+wcwidth==0.2.5
