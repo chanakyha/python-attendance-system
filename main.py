@@ -2,7 +2,7 @@ from prettytable import PrettyTable
 from termcolor import colored
 import os
 
-print("sanchan")
+
 def clrscr():
     os.system("cls") | os.system("clear")
 
