@@ -1,7 +1,7 @@
 from prettytable import PrettyTable
 from termcolor import colored
 import os
-
+#chan san
 
 def clrscr():
     os.system("cls") | os.system("clear")
